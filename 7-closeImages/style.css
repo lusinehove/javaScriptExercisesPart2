@@ -1,0 +1,25 @@
+body
+{
+    background-color: burlywood
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    width: 350px;
+    margin: 20px;
+}
+
+#outPut div {
+    position: relative;
+}
+
+#outPut button {
+    position: absolute;
+    top: 30px;
+    right: 0px;
+}
+

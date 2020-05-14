@@ -1,0 +1,30 @@
+body {
+    background-color: burlywood;
+    font-family: sans-serif;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+
+label {
+    color: #fff;
+    text-align: right;
+    padding: 5px 5px 5px 0;
+    display: inline-block;
+    text-align: left;
+    float: left;
+    margin-right: 
+    margin-left: 20px;
+}
+
+input {
+    border: 1px solid grey;
+    border-radius: 5px;
+/*    float: right;*/
+    
+    padding: 5px;
+}
